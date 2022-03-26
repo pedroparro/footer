@@ -1,3 +1,3 @@
 # footer
-# Footer Responsivo
+# Exemplo Footer Responsivo
 # https://pedroparro.github.io/footer/
